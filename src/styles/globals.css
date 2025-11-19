@@ -4,13 +4,13 @@
 @import url(overlayscrollbars/overlayscrollbars.css);
 @font-face {
   font-family: 'DingTalk Sans';
-  src: url('~/assets/fonts/DingTalk Sans.ttf') format('truetype');
+  src: url('/DingTalk Sans.ttf') format('truetype');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'DingTalk JinBuTi';
-  src: url('~/assets/fonts/DingTalk JinBuTi.ttf') format('truetype');
+  src: url('/DingTalk JinBuTi.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -24,10 +24,10 @@ body,
   padding: 0;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'Baloo 2';
   src: url("/Baloo2-Bold.subset.ttf");
-}
+} */
 
 
 html.dark {
